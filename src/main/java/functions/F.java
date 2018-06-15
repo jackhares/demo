@@ -1,7 +1,5 @@
 package functions;
 
-import java.nio.file.NoSuchFileException;
-
 public class F implements FunctionMethod {
     @Override
     public int function(int[] args) {
